@@ -34,4 +34,5 @@ int main()
     strcat(path,nF);
     strcat(path,name);
     CreateShortcut(mF,path);
+    return 0;
 }
